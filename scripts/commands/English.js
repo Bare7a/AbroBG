@@ -1,0 +1,18 @@
+var commandsENText = [
+'!furaj - Shows the ammount of lucerna you have.',
+'!100tinka <kg lucerna> - Bet whatever ammount of kg lucerna you want and pray to get YEA so you can double your profit, if you get NAY- you loose. 5 MIN COOLDOWN',
+'!zar4e <кила люцерна> - You throw the dice and if you get from 1 to 59 - you loose. From 60 to 94 you X2 your profit. From 95 to 97 - you 3X your profit. 98 and 99 X4 your profit and 100 - X5 your profit! 5 MIN COOLDOWN',
+'!ma6inka <кила люцерна> - Slot machines bro, exactly like in the casino! If you get 2 out of 3 you win x4 on bet, if you get 3 out of 3 you win x25 , the mega jackpot is x75. You can play it every 20 minutes. However every viewer can use it per 30 minutes. 20 MIN COOLDOWN',
+'!bet <избор> <кила люцерна> - Залог на текущото състезание.',
+'!song - Показва името на песента която в момента се изпълнява.',
+'!sr <линк към песента> - Поръчвате песен което ви струва 70 кила люцерна, ако сте съб 35.',
+'!wrongsong - Когато объркате песента, която искате да пуснете, напишете тази командата.',
+'!bitka <име на човека> - Струва 20 и се биете до смърт за вашата люцерна. Съперникът трябва от отговори и има 2 минути. Всеки има 30 мин. почивка след дуел, защото е доста уморен. 20 MIN COOLDOWN',
+'!rank - Показва ранковете на всички акаунти на Abro.',
+'!uptime - Показва съобщение с информация за това от колко време е пуснат стрийма.', 
+'!discord - Показва линк към дискорд сървъра.',
+'!donate - Показва линк към за донейт.',
+'!youtube - Показва линк към ютуб.',
+'!facebook - Показва линк към фейсбук.',
+'!vote <избор> - Ако решите да гласувате на зададена анкета.',
+]
