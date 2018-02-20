@@ -11,12 +11,12 @@ function initOther()
 	});
 
 	$("#otherBan").click(function (e){
-		var output = "/w 6efaTuk !ban " + $("#otherVariable").val() + " " + $("#otherReason").val();
+		var output = "/ban " + $("#otherVariable").val() + " " + $("#otherReason").val();
 		copyToClipboard(output);
 	});
 
 	$("#otherTimeout").click(function (e){
-		var output = "/w 6efaTuk !timeout " + $("#otherVariable").val() + " " + $("#otherReason").val();;
+		var output = "/timeout " + $("#otherVariable").val() + " " + $("#otherReason").val();;
 		copyToClipboard(output);
 	});
 
